@@ -1,0 +1,376 @@
+{
+    "Nakatonbetsu_JP": {
+        "center": [
+            45.0846,
+            142.1755
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0009079357182145133,
+        "total_events": 267,
+        "time_span_hours": 294073.6823583333
+    },
+    "Honshu_JP": {
+        "center": [
+            36.2048,
+            138.2529
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.002518775491386349,
+        "total_events": 736,
+        "time_span_hours": 292205.4794152778
+    },
+    "California_US": {
+        "center": [
+            36.7783,
+            -119.4179
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0003709525654535497,
+        "total_events": 104,
+        "time_span_hours": 280359.29573055555
+    },
+    "Chile": {
+        "center": [
+            -35.6751,
+            -71.543
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.004175693111123837,
+        "total_events": 1227,
+        "time_span_hours": 293843.43325694447
+    },
+    "Tokyo_JP": {
+        "center": [
+            35.6895,
+            139.6917
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.008087274154604661,
+        "total_events": 2380,
+        "time_span_hours": 294289.5164058333
+    },
+    "Santiago_CL": {
+        "center": [
+            -33.4489,
+            -70.6693
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.007152763497949308,
+        "total_events": 2093,
+        "time_span_hours": 292614.1764088889
+    },
+    "Lima_PE": {
+        "center": [
+            -12.0464,
+            -77.0428
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0007711814331540526,
+        "total_events": 225,
+        "time_span_hours": 291760.1362363889
+    },
+    "Jakarta_ID": {
+        "center": [
+            -6.2088,
+            106.8456
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0014174168859065223,
+        "total_events": 414,
+        "time_span_hours": 292080.61800055555
+    },
+    "Manila_PH": {
+        "center": [
+            14.5995,
+            120.9842
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.004131545510733796,
+        "total_events": 1209,
+        "time_span_hours": 292626.57203194447
+    },
+    "Taipei_TW": {
+        "center": [
+            25.033,
+            121.5654
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.006512448863237147,
+        "total_events": 1913,
+        "time_span_hours": 293745.1088175
+    },
+    "Tehran_IR": {
+        "center": [
+            35.6892,
+            51.389
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0002545387627255794,
+        "total_events": 68,
+        "time_span_hours": 267149.8803241667
+    },
+    "Kathmandu_NP": {
+        "center": [
+            27.7172,
+            85.324
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0013242682372046608,
+        "total_events": 385,
+        "time_span_hours": 290726.5984213889
+    },
+    "SanFrancisco_US": {
+        "center": [
+            37.7749,
+            -122.4194
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.00040403511865786995,
+        "total_events": 118,
+        "time_span_hours": 292053.82045
+    },
+    "LosAngeles_US": {
+        "center": [
+            34.0522,
+            -118.2437
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0008070279446584686,
+        "total_events": 235,
+        "time_span_hours": 291191.89930833335
+    },
+    "MexicoCity_MX": {
+        "center": [
+            19.4326,
+            -99.1332
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.00015104569703671122,
+        "total_events": 31,
+        "time_span_hours": 205235.90283055557
+    },
+    "Anchorage_US": {
+        "center": [
+            61.2181,
+            -149.9003
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.001370931947001633,
+        "total_events": 395,
+        "time_span_hours": 288125.16978972225
+    },
+    "Wellington_NZ": {
+        "center": [
+            -41.2865,
+            174.7762
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0031501744090425745,
+        "total_events": 900,
+        "time_span_hours": 285698.4671758333
+    },
+    "Naples_IT": {
+        "center": [
+            40.8518,
+            14.2681
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.00030862643033153353,
+        "total_events": 89,
+        "time_span_hours": 288374.5241922222
+    },
+    "Istanbul_TR": {
+        "center": [
+            41.0082,
+            28.9784
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.000519125519564421,
+        "total_events": 142,
+        "time_span_hours": 273536.9282541667
+    },
+    "Athens_GR": {
+        "center": [
+            37.9838,
+            23.7275
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0015522976136836735,
+        "total_events": 455,
+        "time_span_hours": 293113.8951636111
+    },
+    "Quito_EC": {
+        "center": [
+            -0.1807,
+            -78.4678
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0004922574129247022,
+        "total_events": 144,
+        "time_span_hours": 292529.8760752778
+    },
+    "LaPaz_BO": {
+        "center": [
+            -16.4897,
+            -68.1193
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.00019993112229476373,
+        "total_events": 58,
+        "time_span_hours": 290099.90707944444
+    },
+    "PortAuPrince_HT": {
+        "center": [
+            18.5944,
+            -72.3074
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0007334118915002484,
+        "total_events": 211,
+        "time_span_hours": 287696.45331
+    },
+    "Reykjavik_IS": {
+        "center": [
+            64.1466,
+            -21.9426
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0005959483574497941,
+        "total_events": 174,
+        "time_span_hours": 291971.60764833336
+    },
+    "KermadecIslands_NZ": {
+        "center": [
+            -29.25,
+            -177.9167
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.012747851516933152,
+        "total_events": 3744,
+        "time_span_hours": 293696.54918138887
+    },
+    "MontePatria_CL": {
+        "center": [
+            -30.697,
+            -70.953
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.009546593147290694,
+        "total_events": 2803,
+        "time_span_hours": 293612.5963213889
+    },
+    "Mendi_PG": {
+        "center": [
+            -6.1476,
+            143.6559
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.001994294755169424,
+        "total_events": 580,
+        "time_span_hours": 290829.6271133333
+    },
+    "Hengchun_TW": {
+        "center": [
+            21.958,
+            120.7793
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0039468008752180025,
+        "total_events": 1159,
+        "time_span_hours": 293655.55462333333
+    },
+    "Adak_AK": {
+        "center": [
+            51.88,
+            -176.6581
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.006228701916654709,
+        "total_events": 1828,
+        "time_span_hours": 293480.0901472222
+    },
+    "HappyValley_AK": {
+        "center": [
+            59.71,
+            -151.315
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.001611615339485561,
+        "total_events": 471,
+        "time_span_hours": 292253.36124583334
+    },
+    "SeveroKurilsk_RU": {
+        "center": [
+            50.6789,
+            156.1275
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.0024499384238836778,
+        "total_events": 717,
+        "time_span_hours": 292660.4166905555
+    },
+    "Ohonua_TO": {
+        "center": [
+            -21.3333,
+            -175.6667
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.005060015736785781,
+        "total_events": 1475,
+        "time_span_hours": 291501.06970555556
+    },
+    "VillaElCarmen_NI": {
+        "center": [
+            11.976,
+            -86.286
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.005238974656412383,
+        "total_events": 1536,
+        "time_span_hours": 293187.14075472223
+    },
+    "MacquarieIsland_AU": {
+        "center": [
+            -54.62,
+            158.85
+        ],
+        "radius_km": 150,
+        "min_magnitude": 4.0,
+        "event_rate_per_hour": 0.00039279033858361157,
+        "total_events": 110,
+        "time_span_hours": 280047.62132555555
+    }
+}
